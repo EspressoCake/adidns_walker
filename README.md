@@ -1,6 +1,6 @@
 # 🔭 Bottom-Line Up Front
 
-This is meant to generate the contents to be used in [my other importation tooling](https://github.com/EspressoCake/ADIDNS_Parser) with `A` records haivng IP address values provided by the output of [ADIDNS dump](https://github.com/dirkjanm/adidnsdump).
+This is meant to generate the contents to be used in [my other importation tooling](https://github.com/EspressoCake/ADIDNS_Parser) with `A` records having IP address values provided by the output of [ADIDNS dump](https://github.com/dirkjanm/adidnsdump).
 
 ## 🚀 Usage
 ```
